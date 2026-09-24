@@ -1,6 +1,6 @@
 # RGBD20K
 
-**RGBD20K: A Large-Scale RGB-D Dataset for Robust and Efficient Visual Perception**
+**RGBD20K: A Large-Scale Benchmark for RGB-D Semantic Segmentation**
 
 This repository provides the dataset, pretrained models, re-annotated SUN RGB-D dataset, and implementation associated with **RGBD20K**.
 
