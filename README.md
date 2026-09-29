@@ -85,16 +85,3 @@ University of North Texas
 ## ⭐ Acknowledgements
 
 We thank all contributors and collaborators who helped make the RGBD20K dataset and benchmark possible.
-
----
-
-If you use RGBD20K in your research, please cite our paper:
-
-```bibtex
-@article{dong2026rgbd20k,
-  title={RGBD20K: A Large-Scale Benchmark for RGB-D Semantic Segmentation},
-  author={Dong, Shaohua and Fan, Heng},
-  journal={arXiv preprint arXiv:2609.29028},
-  year={2026}
-}
-
