@@ -70,8 +70,6 @@ Detailed installation, training, and evaluation instructions will be provided on
 | **Related Work — GeminiFusion** | [GitHub](https://github.com/JiaDingCN/GeminiFusion)                                                                               |
 
 ---
-
-
 If you use RGBD20K in your research, please cite our paper:
 
 ```bibtex
@@ -81,6 +79,7 @@ If you use RGBD20K in your research, please cite our paper:
   journal={arXiv preprint arXiv:2609.29028},
   year={2026}
 }
+---
 
 ---
 
