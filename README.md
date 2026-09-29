@@ -80,6 +80,12 @@ For questions or inquiries, please contact:
 University of North Texas
 📧 [shaohuadong@my.unt.edu](mailto:shaohuadong@my.unt.edu)
 
+
+
+## ⭐ Acknowledgements
+
+We thank all contributors and collaborators who helped make the RGBD20K dataset and benchmark possible.
+
 ---
 
 If you use RGBD20K in your research, please cite our paper:
@@ -92,9 +98,3 @@ If you use RGBD20K in your research, please cite our paper:
   year={2026}
 }
 
----
-
-
-## ⭐ Acknowledgements
-
-We thank all contributors and collaborators who helped make the RGBD20K dataset and benchmark possible.
